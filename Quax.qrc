@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/bg.png</file>
+        <file>images/pinwheel.png</file>
+        <file>images/pole.png</file>
+        <file>images/blue-market.jpg</file>
+        <file>images/arch-linux-icon.png</file>
+        <file>MessageItem.qml</file>
+        <file>ChatArea.qml</file>
+        <file>ChannelItem.qml</file>
+        <file>SidebarItem.qml</file>
+        <file>MainView.qml</file>
+        <file>main.qml</file>
+        <file>MessageModel.qml</file>
+    </qresource>
+</RCC>
